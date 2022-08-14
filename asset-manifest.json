@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Skin-Nerds/static/css/main.589c1d88.css",
-    "main.js": "/Skin-Nerds/static/js/main.85effc4c.js",
-    "static/js/787.1d6c3b51.chunk.js": "/Skin-Nerds/static/js/787.1d6c3b51.chunk.js",
-    "static/media/myimage.jpeg": "/Skin-Nerds/static/media/myimage.50a7d1e4e3946e9ceb0a.jpeg",
-    "index.html": "/Skin-Nerds/index.html",
-    "main.589c1d88.css.map": "/Skin-Nerds/static/css/main.589c1d88.css.map",
-    "main.85effc4c.js.map": "/Skin-Nerds/static/js/main.85effc4c.js.map",
-    "787.1d6c3b51.chunk.js.map": "/Skin-Nerds/static/js/787.1d6c3b51.chunk.js.map"
+    "main.css": "/my-digital-business-card-/static/css/main.589c1d88.css",
+    "main.js": "/my-digital-business-card-/static/js/main.f9ec037c.js",
+    "static/js/787.1d6c3b51.chunk.js": "/my-digital-business-card-/static/js/787.1d6c3b51.chunk.js",
+    "static/media/myimage.jpeg": "/my-digital-business-card-/static/media/myimage.50a7d1e4e3946e9ceb0a.jpeg",
+    "index.html": "/my-digital-business-card-/index.html",
+    "main.589c1d88.css.map": "/my-digital-business-card-/static/css/main.589c1d88.css.map",
+    "main.f9ec037c.js.map": "/my-digital-business-card-/static/js/main.f9ec037c.js.map",
+    "787.1d6c3b51.chunk.js.map": "/my-digital-business-card-/static/js/787.1d6c3b51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.589c1d88.css",
-    "static/js/main.85effc4c.js"
+    "static/js/main.f9ec037c.js"
   ]
 }
