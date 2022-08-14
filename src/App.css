@@ -77,4 +77,6 @@ footer>* {
   font-size: 30px;
   color: #918E9B;
   background: #161619;
+  position: absolute;
+  bottom: 0;
 }
